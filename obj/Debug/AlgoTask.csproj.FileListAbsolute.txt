@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\AlgoTask\bin\Debug\AlgoTask.exe.config
+C:\Users\MSI\source\repos\AlgoTask\bin\Debug\AlgoTask.exe
+C:\Users\MSI\source\repos\AlgoTask\bin\Debug\AlgoTask.pdb
+C:\Users\MSI\source\repos\AlgoTask\obj\Debug\AlgoTask.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\AlgoTask\obj\Debug\AlgoTask.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\AlgoTask\obj\Debug\AlgoTask.exe
+C:\Users\MSI\source\repos\AlgoTask\obj\Debug\AlgoTask.pdb
